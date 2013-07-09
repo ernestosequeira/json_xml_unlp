@@ -7,7 +7,7 @@
 		  	"tipodoc":[
 		 		{ 
 					"DNI": true, 
-		          	"LC": false,
+		          		"LC": false,
 			  		"LE": false
 			  	},
 			],
@@ -20,7 +20,7 @@
 		  	"tipodoc":[
 		 		{ 
 					"DNI": true, 
-		          	"LC": false,
+		          		"LC": false,
 			  		"LE": false
 			  	},
 			],
