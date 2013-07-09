@@ -1,0 +1,13 @@
+<persona>
+	<nombre>Ernesto</nombre>
+	<apellido>Sequeira</apellido>
+	<edad>28</edad>
+	<tipodoc>DNI</tipodoc>
+	<nrodoc>31300000</nrodoc>
+	
+	<nombre>Juan</nombre>
+	<apellido>Pereira</apellido>
+	<edad>30</edad>
+	<tipodoc>DNI</tipodoc>
+	<nrodoc>31300001</nrodoc>
+</persona>
